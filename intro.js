@@ -4,5 +4,5 @@ const pi = 3.142;
 
 let y = x + 10;
 
-console.log ("x value" + x);
-console.log ("y value" + y);
+console.log("x value" + x);
+console.log("y value" + y);
